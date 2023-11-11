@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Talpp</string>
+    <string name="logo_image_description">message black icon as logo</string>
+    <string name="login_txt_input_email">Type your e-mail</string>
+    <string name="login_txt_input_password">Type your password</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="register_txt_input_name">Type your name</string>
+    <string name="login_txt_view_register_redirection_txt">Don\'t have an account?</string>
+    <string name="login_txt_view_register_redirection_link"> Register now</string>
+    <string name="button_register"> Register </string>
+    <string name="main_menu_item_profile"> Profile </string>
+    <string name="main_menu_item_logout"> Log out </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Talpp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/black</item>
+        <item name="actionOverflowButtonStyle">@style/ActionOverflowButton</item>
+    </style>
+
+    <style name="ActionOverflowButton" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="tint">
+            @color/white
+        </item>
+    </style>
+
+    <style name="Circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.Talpp" parent="Base.Theme.Talpp" />
+</resources>
